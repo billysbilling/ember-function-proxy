@@ -1,0 +1,8 @@
+{
+  "name": "ember-function-proxy",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "billy-builder": "git://github.com/billysbilling/billy-builder.git"
+  }
+}
