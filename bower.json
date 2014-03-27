@@ -1,6 +1,6 @@
 {
   "name": "function-proxy",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/billysbilling/function-proxy",
   "main": "function-proxy.js",
   "license": "MIT",
