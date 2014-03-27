@@ -1,4 +1,4 @@
-ember-function-proxy
+function-proxy
 ====================
 
 Alternative for $.proxy for event binding with jQuery.
