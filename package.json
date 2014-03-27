@@ -1,8 +1,21 @@
 {
-  "name": "ember-function-proxy",
+  "name": "function-proxy",
   "version": "0.1.0",
+  "scripts": {
+    "test": "mocha --reporter spec ./test.js"
+  },
+  "repository": {
+  "type": "git",
+    "url": "git://github.com/billysbilling/function-proxy"
+  },
+  "authors": [
+    "Adam Robertson"
+  ],
+  "bugs": {
+    "url": "https://github.com/billysbilling/function-proxy/issues"
+  },
+  "license": "MIT",
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "billy-builder": "git://github.com/billysbilling/billy-builder.git"
+    "mocha": "*"
   }
 }

@@ -1,17 +1,11 @@
 {
-  "name": "ember-function-proxy",
+  "name": "function-proxy",
   "version": "0.1.0",
-  "homepage": "https://github.com/billysbilling/ember-function-proxy",
+  "homepage": "https://github.com/billysbilling/function-proxy",
   "main": "function-proxy.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "ember": "billysbilling/bower-ember#~1.3.0"
-  }
+  ]
 }
